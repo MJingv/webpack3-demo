@@ -10,7 +10,7 @@ Babel<br />
 CSS module<br />
 ***
 
-使用插件：
+>使用插件：
 BannerPlugin：添加版权声明的插件<br />
 Hot Module Replacement：实现热加载--1.在webpack配置文件中添加HMR插件；2.在Webpack Dev Server中添加“hot”参数；<br />
 OccurenceOrderPlugin :为组件分配ID，通过这个插件webpack可以分析和优先考虑使用最多的模块，并为它们分配最小的ID<br />
